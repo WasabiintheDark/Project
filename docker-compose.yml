@@ -1,0 +1,39 @@
+
+
+services:
+  db:
+    image: postgres:16
+    container_name: companyworkload-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: company_workload
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d company_workload"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+  api:
+    build:
+      context: .
+      dockerfile: src/CompanyWorkload.Api/Dockerfile
+    container_name: companyworkload-api
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      # строка подключения для EF: подключаемся к контейнеру db
+      ConnectionStrings__CompanyWorkload: "Host=db;Port=5432;Database=company_workload;Username=postgres;Password=postgres"
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+
+volumes:
+  db_data:

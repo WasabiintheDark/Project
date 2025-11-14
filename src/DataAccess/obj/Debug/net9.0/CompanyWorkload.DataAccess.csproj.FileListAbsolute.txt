@@ -1,0 +1,17 @@
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\bin\Debug\net9.0\CompanyWorkload.DataAccess.deps.json
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\bin\Debug\net9.0\CompanyWorkload.DataAccess.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\bin\Debug\net9.0\CompanyWorkload.DataAccess.pdb
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\bin\Debug\net9.0\CompanyWorkload.Domain.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\bin\Debug\net9.0\CompanyWorkload.Domain.pdb
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\obj\Debug\net9.0\CompanyWorkload.DataAccess.csproj.AssemblyReference.cache
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\obj\Debug\net9.0\CompanyWorkload.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\obj\Debug\net9.0\CompanyWorkload.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\obj\Debug\net9.0\CompanyWorkload.DataAccess.AssemblyInfo.cs
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\obj\Debug\net9.0\CompanyWorkload.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\obj\Debug\net9.0\CompanyW.B7D206CD.Up2Date
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\obj\Debug\net9.0\CompanyWorkload.DataAccess.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\obj\Debug\net9.0\refint\CompanyWorkload.DataAccess.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\obj\Debug\net9.0\CompanyWorkload.DataAccess.pdb
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\obj\Debug\net9.0\ref\CompanyWorkload.DataAccess.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\bin\Debug\net9.0\CompanyWorkload.DataAccess.runtimeconfig.json
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\DataAccess\obj\Debug\net9.0\CompanyWorkload.DataAccess.genruntimeconfig.cache

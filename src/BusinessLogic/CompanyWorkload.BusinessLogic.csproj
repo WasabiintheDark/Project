@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- FluentValidation как библиотека (НЕ AspNetCore) -->
+    <PackageReference Include="FluentValidation" Version="11.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Ссылки на Domain и DataAccess -->
+    <ProjectReference Include="..\Domain\CompanyWorkload.Domain.csproj" />
+    <ProjectReference Include="..\DataAccess\CompanyWorkload.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

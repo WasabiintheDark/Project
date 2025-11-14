@@ -1,0 +1,12 @@
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\Domain\bin\Debug\net8.0\CompanyWorkload.Domain.deps.json
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\Domain\bin\Debug\net8.0\CompanyWorkload.Domain.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\Domain\bin\Debug\net8.0\CompanyWorkload.Domain.pdb
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\Domain\obj\Debug\net8.0\CompanyWorkload.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\Domain\obj\Debug\net8.0\CompanyWorkload.Domain.AssemblyInfoInputs.cache
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\Domain\obj\Debug\net8.0\CompanyWorkload.Domain.AssemblyInfo.cs
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\Domain\obj\Debug\net8.0\CompanyWorkload.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\Domain\obj\Debug\net8.0\CompanyWorkload.Domain.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\Domain\obj\Debug\net8.0\refint\CompanyWorkload.Domain.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\Domain\obj\Debug\net8.0\CompanyWorkload.Domain.pdb
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\Domain\obj\Debug\net8.0\ref\CompanyWorkload.Domain.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\Domain\obj\Debug\net8.0\CompanyWorkload.Domain.sourcelink.json

@@ -1,0 +1,17 @@
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\bin\Debug\net9.0\CompanyWorkload.BusinessLogic.deps.json
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\bin\Debug\net9.0\CompanyWorkload.BusinessLogic.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\bin\Debug\net9.0\CompanyWorkload.BusinessLogic.pdb
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\bin\Debug\net9.0\CompanyWorkload.DataAccess.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\bin\Debug\net9.0\CompanyWorkload.Domain.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\bin\Debug\net9.0\CompanyWorkload.Domain.pdb
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\bin\Debug\net9.0\CompanyWorkload.DataAccess.pdb
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\obj\Debug\net9.0\CompanyWorkload.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\obj\Debug\net9.0\CompanyWorkload.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\obj\Debug\net9.0\CompanyWorkload.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\obj\Debug\net9.0\CompanyWorkload.BusinessLogic.AssemblyInfo.cs
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\obj\Debug\net9.0\CompanyWorkload.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\obj\Debug\net9.0\CompanyW.19789B6E.Up2Date
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\obj\Debug\net9.0\CompanyWorkload.BusinessLogic.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\obj\Debug\net9.0\refint\CompanyWorkload.BusinessLogic.dll
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\obj\Debug\net9.0\CompanyWorkload.BusinessLogic.pdb
+C:\Users\kedro\Desktop\Программированье\ларчик 2\CompanyWorkload\src\BusinessLogic\obj\Debug\net9.0\ref\CompanyWorkload.BusinessLogic.dll
